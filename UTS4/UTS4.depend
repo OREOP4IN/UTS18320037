@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647741044 source:f:\dlh ext\college\1 biomedic\iv\ppmc\tp\uts4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
